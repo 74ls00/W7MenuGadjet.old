@@ -45,8 +45,8 @@ height: 48px ;
  height: 384px ;	/*	высота панели	*/
  /*	height 384 = 8 s	*/
 
- /*background: #0085ED url('./bgpanel/im2.png') ;/*Фон изображение меню 778x450*/
- background: #0085ED url('./bgpanel/im2.png');
+ /*background: #0085ED url('./bgpanel/im2.png') ;/*Фон изображение меню 778x450*/ 
+background: #0085ED url('./bgpanel/alma_1280-1024_.png');
  
  list-style: none ;
 }
