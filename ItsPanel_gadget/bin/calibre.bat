@@ -1,0 +1,1 @@
+@start /d "G:\home\DB\Calibre Portable" calibre-portable.exe

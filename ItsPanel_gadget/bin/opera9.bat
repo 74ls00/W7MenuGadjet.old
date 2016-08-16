@@ -1,0 +1,1 @@
+start G:\Programs\portableapps.com\PortableApps\Opera9\Opera9.exe

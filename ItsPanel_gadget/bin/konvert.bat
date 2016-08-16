@@ -1,0 +1,1 @@
+start /d "G:\Programs\Programs\Konvert1.3" Konvert.exe

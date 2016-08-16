@@ -1,0 +1,1 @@
+start /d G:\Programs\Programs\Calculator2 Calculator.exe

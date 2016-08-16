@@ -1,0 +1,71 @@
+* {margin:0px;padding:0px;}
+a img{border:none;}/* Убираем рамку вокруг изображений-ссылок */	
+
+/*	main menu	*/
+#mmenu {
+ margin: 0px ;
+ padding: 5px ;
+ width : auto ;
+ height: 48px ; /*	высота полосы значков	*/ 
+ background: #0085ED url('bg.png') ;/*Фон изображение меню*/
+ list-style: none ;
+ float:left;
+}
+#mmenu img {
+ width : 48px ; /*	высота значков	*/
+ float: left ;
+ margin:0px; 
+ padding:0px;
+}
+.mm img:hover {
+ background: red ;
+}
+
+#m2s{
+margin:2px;
+ background: #0085ED url('5.png');
+  width : 38px ;
+ height: 38px ;
+ 
+}
+
+body{
+ background: #0085ED url('im1.jpg');
+}
+
+
+/*	end main menu	*/
+/*	content menu	*/
+#menu {
+ margin: 0px ;
+ padding: 0px ;
+ width : auto ;
+ height: 384px ;	/*	высота панели	*/
+ /*	height 384 = 8 s	*/
+ background: #0085ED url('im2.png') ;/*Фон изображение меню*/
+ list-style: none ;
+}
+#menu img {
+width : 48px ;
+ float: left ;
+ margin:0px; 
+}
+.cm img:hover {
+ background: yellow ;
+}
+/*	end content menu	*/
+
+
+
+
+
+
+/*	дoполнитeльное	*/
+
+
+
+
+
+
+
+/*	end дoполнитeльное	*/

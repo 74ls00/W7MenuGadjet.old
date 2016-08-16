@@ -1,0 +1,21 @@
+/*	параметры гаджета	*/
+body {
+
+/*width: 586px;		/*ширина панели	*/
+width: 778px;		/*ширина панели	*/
+
+/*	width 778 = 16 s	*/
+height: 462px;	/*	обрезка панели по высоте	*/
+ /*	height 462 = 8 s	*/
+background:#0f5;
+padding:0px;
+margin:0px;	
+background:transparent url('../menu/bgt.png') repeat; /*	прозрачность	*/
+	
+}
+/*	разделитель вернее меню - вложение	*/
+#block1{
+height:10px;
+}
+
+.clear{clear:both;} /*	div	<div class="clear"></div>	*/

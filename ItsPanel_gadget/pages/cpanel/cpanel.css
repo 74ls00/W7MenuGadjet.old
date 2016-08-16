@@ -1,0 +1,44 @@
+#fcpanel {
+float:left;
+ width : 50% ;
+ padding-left:3px;
+}
+#scpanel {
+float:left;
+width : 270px ; /*! ?*/
+padding-top:1px;
+}
+a{text-decoration: none;}
+a:hover{
+text-decoration: underline;
+color: green;
+}
+.sy32 div{
+padding-top:15px;
+padding-left:5px;
+font-family:tahoma,verdana;
+font-style: oblique;
+color:black;
+font-size:12px;/*14*/
+font-weight:bold;
+
+}
+
+ .sy32 img{
+ clear:left;;
+ }
+
+.sy32 div:hover {
+ cursor:default;
+ }
+.sy32 img:hover{
+  cursor:default;
+ }
+ 
+
+ 
+ 
+ 
+ #mf2 {
+ border: 2px solid red ; 
+ }

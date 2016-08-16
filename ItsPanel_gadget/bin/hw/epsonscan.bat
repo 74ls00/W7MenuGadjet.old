@@ -1,0 +1,1 @@
+@start /d C:\Windows\twain_32\escndv escndv.exe

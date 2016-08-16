@@ -1,0 +1,1 @@
+start /d G:\Programs\portableapps.com\PortableApps\KMPlayerPortable3.0.0 KMPlayerPortable.exe

@@ -1,0 +1,1 @@
+start /d G:\Programs\portableapps.com\PortableApps\ThunderbirdPortable ThunderbirdPortable.exe

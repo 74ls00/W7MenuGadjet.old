@@ -1,0 +1,79 @@
+* {margin:0px;padding:0px;outline:0px;}
+a img{border:none;/* Убираем рамку вокруг изображений-ссылок */}
+/*	frame table	*/
+#mf4 {	/*	1 рамка главное меню	*/
+ border: 1px solid #ad1e00 ;
+ width: 584px;	/*	ширина меню	(584=12sim)	*/
+}
+#mf2 {
+ border: 2px solid #f79518 ; 
+ }
+#mf3 {
+ border: 2px solid #742200 ;
+ }
+/*	end frame table	*/
+/*	main menu	*/
+#mmenu {
+ margin: 0px ;
+ padding: 0px ;
+ width : auto ;
+ height: 48px ; /*	высота полосы значков	*/ 
+ background: #0085ED url('im1.jpg') ;/*Фон изображение меню*/
+ list-style: none ;
+ float:none;
+}
+#mmenu img {
+ width : 48px ; /*	высота значков	*/
+ float: left ;
+ margin:0px; 
+ padding:0px;
+}
+.mm img:hover {
+ background: red ;
+}
+#m2s img , .mc img {
+cursor:default;
+width : 48px ;
+height: 48px ;
+}
+/*	end main menu	*/
+/*	content menu	*/
+#menu {
+ margin: 0px ;
+ padding: 0px ;
+ width : auto ;
+ height: 384px ;	/*	высота панели	*/
+ /*	height 384 = 8 s	*/
+
+ /*background: #0085ED url('./bgpanel/im2.png') ;/*Фон изображение меню 778x450*/
+ background: #0085ED url('./bgpanel/im2.png');
+ 
+ list-style: none ;
+}
+#menu img {
+
+ float: left ;
+ margin:0px; 
+}
+.cm img:hover {
+ background: yellow ;
+ width : 48px ;
+}
+.s16 img{
+width : 16px ;
+height: 16px ;
+padding-top:32px;
+}
+.y16 img:hover{
+ background: url('../menu/a16y.png');
+}
+/*	end content menu	*/
+
+/*
+#vol {
+float:left;
+margin-top:-50px;
+margin-left:577px;
+height:50px;
+width:100px;
+}*/

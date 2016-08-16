@@ -1,0 +1,1 @@
+start /d G:\Programs\Programs\foobar2000 foobar2000.exe

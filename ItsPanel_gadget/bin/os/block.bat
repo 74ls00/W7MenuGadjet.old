@@ -1,0 +1,1 @@
+RUNDLL32.exe USER32.dll,LockWorkStation

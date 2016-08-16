@@ -1,0 +1,1 @@
+ping -t ya.ru

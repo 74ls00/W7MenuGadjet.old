@@ -1,0 +1,3 @@
+@echo off
+title Fonts...
+start %windir%\Fonts

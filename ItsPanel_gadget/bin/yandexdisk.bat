@@ -1,0 +1,1 @@
+@start /d "G:\Programs\Programs\YandexDisk 1.3.4.4703 Portable" YandexDisk_x64_Portable.exe

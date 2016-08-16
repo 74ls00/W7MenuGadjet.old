@@ -1,0 +1,1 @@
+@start /d "C:\Program Files (x86)\ArcSoft\TotalMedia Theatre 5" uLaunchTMT5.exe

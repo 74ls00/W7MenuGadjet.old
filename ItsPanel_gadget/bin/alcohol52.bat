@@ -1,0 +1,1 @@
+@start /d "C:\Program Files (x86)\Alcohol Soft\Alcohol 52" Alcohol.exe

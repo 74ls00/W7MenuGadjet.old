@@ -1,0 +1,1 @@
+start /d G:\Programs\Programs\spad\spad2.226 Superpad.exe
