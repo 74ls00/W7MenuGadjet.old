@@ -1,2 +1,2 @@
-+LPTTestUtility
-+EpromM51_98D12C3
++ C64 LPTTestUtility
++ G   EpromM51_98D12C3
