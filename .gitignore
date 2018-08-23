@@ -46,7 +46,7 @@ GameKB
 *.xln
 
 *.bak
-*.lnk
+#*.lnk
 *.log
 *.b##
 *.b#1
