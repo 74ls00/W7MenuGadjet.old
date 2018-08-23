@@ -1,1 +1,0 @@
-@start /d "C:\Program Files (x86)\Bloody2\Bloody2" Bloody2.exe
