@@ -1,2 +1,3 @@
 title Transmission running ...
-@start /d G:\Programs\ProgramsW\Transmission-Qt transmission_run.bat
+start /d G:\Programs\portableapps.com\PortableApps 
+rem @start /d G:\Programs\ProgramsW\Transmission-Qt transmission_run.bat
