@@ -29,7 +29,7 @@ FileClose($hFile)
 
 FileMove ($gfilename & ".gadget" , $dirbak & $gfilebak , 9 )
 
-Run(@ComSpec & " /c" & '7z.exe a -tzip ' & $gfilename & '.gadget .\' & $dirsrc & '\* >' & $logfile , "", @SW_HIDE)
+RunWait(@ComSpec & " /c" & '7z.exe a -tzip ' & $gfilename & '.gadget .\' & $dirsrc & '\* >' & $logfile , "", @SW_HIDE)
 
 
 
