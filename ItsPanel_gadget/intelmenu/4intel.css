@@ -1,0 +1,22 @@
+
+
+#menu {
+background: #0085ED url('background-test.png') ;/*Фон изображение меню 614*384*/
+}
+
+
+
+
+.inteltable {
+width: 100%;
+height: 100%;
+	
+border: 1px solid black; /* Рамка вокруг таблицы */	
+border-collapse: collapse; /* Отображать только одинарные линии */
+	
+
+	
+}
+.inteltable  td {
+	    border: 1px solid black; /* Граница вокруг ячеек */
+}

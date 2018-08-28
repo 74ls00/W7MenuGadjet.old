@@ -1,0 +1,5 @@
+G:\home\Documents\Projects\0-Electronics\Programmer\EzoFlash4v5\soft\Willem 5F x64
+
+Если система 64, 
+если нет файла,
+открыть папку
