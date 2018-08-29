@@ -80,3 +80,6 @@ GameKB
 *.mpd
 *.pro
 *.job
+/ItsPanel_gadget/menu/oldres
+/ItsPanel_gadget/intermenu
+/ItsPanel_gadget/intelmenu/pc001
