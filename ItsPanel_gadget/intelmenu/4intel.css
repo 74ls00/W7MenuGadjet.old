@@ -1,7 +1,8 @@
 
 
 #menu {
-background: #0085ED url('background-test.png') ;/*Фон изображение меню 614*384*/
+/*background: #0085ED url('background-test.png') ;Фон изображение меню 614*384*/
+background: #0085ED url('background-test_1.png') ;/*Фон изображение меню 576*384*/
 }
 
 
@@ -18,5 +19,5 @@ border-collapse: collapse; /* Отображать только одинарны
 	
 }
 .inteltable  td {
-	    border: 1px solid black; /* Граница вокруг ячеек */
+border: 1px solid black; /* Граница вокруг ячеек */
 }
