@@ -9,7 +9,7 @@ volume_control
 
 ~build_log.txt
 
-DriveInfo.gadget.7z
+
 
 volume_control.gadget
 
@@ -26,27 +26,21 @@ old/
 
 b.bat
 
-PythonPortable
 
-dfu-programmer
 
-dfu-programmer-win-0.7.2
+7z_log.txt
 
 GameKB
 ~GameKB
 
-~bad
-~std
 
 
 
 
 
 *.7z
-
 *.gpi
 *.xln
-
 *.bak
 #*.lnk
 *.log
@@ -86,3 +80,4 @@ GameKB
 /ItsPanel_gadget/intermenu
 /ItsPanel_gadget/intelmenu/pc001
 /All_CPU_Meter
+/ItsPanel_gadget/programs/ausdiskdefrag
