@@ -30,6 +30,7 @@ FileClose($hFile)
 FileMove ($gfilename & ".gadget" , $dirbak & $gfilebak , 9 )
 
 RunWait(@ComSpec & " /c" & '7z.exe a -tzip ' & $gfilename & '.gadget .\' & $dirsrc & '\* >' & $logfile , "", @SW_HIDE)
+;7z.exe a -tzip ' & $gfilename & '.gadget .\' & ItsPanel_gadget > ~build_log.txt , ""
 
 
 
