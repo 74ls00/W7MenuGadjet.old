@@ -1,2 +1,8 @@
-start G:\Programs\portableapps.com\PortableApps\Notepad++Portable\Notepad++Portable.exe %~d0%~p0..\..\pages\pagee.html
-
+@echo off
+title 
+cls
+set "edr=T:\Program Files\Notepad++\notepad++.exe"
+if exist "%edr%" goto ran
+exit
+:ran
+"T:\Program Files\Notepad++\notepad++.exe" "%~d0%~p0..\..\pages\pagee.html"

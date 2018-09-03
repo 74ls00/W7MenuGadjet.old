@@ -1,5 +1,5 @@
 git.txt
-
+~
 
 ~ow
 backup
@@ -9,17 +9,17 @@ volume_control
 
 ~build_log.txt
 
+ausdiskdefragportable.exe
 
 
 volume_control.gadget
-
 ItsPanel.gadget
 ItsPanel
 
 volume
 
 
-3d
+
 backup/
 local/
 old/
@@ -29,12 +29,6 @@ b.bat
 
 
 7z_log.txt
-
-GameKB
-~GameKB
-
-
-
 
 
 
@@ -82,3 +76,8 @@ GameKB
 /All_CPU_Meter
 /ItsPanel_gadget/programs/ausdiskdefrag
 /ItsPanel_gadget/bin/bak
+/ItsPanel_gadget/programs/bin
+/stable
+
+/ItsPanel_gadget/pages/pageb.old.html
+/ItsPanel_gadget/bin/dco.bat
