@@ -1,1 +1,0 @@
-start G:\Backup\OperaBackup_script
