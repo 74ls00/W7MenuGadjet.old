@@ -1,4 +1,5 @@
-git.txt
+﻿git.txt
+desktop.ini
 ~
 
 ~ow
@@ -82,3 +83,5 @@ b.bat
 /ItsPanel_gadget/pages/pageb.old.html
 /ItsPanel_gadget/bin/dco.bat
 /ItsPanel_gadget/pages/page0.d.html
+/ItsPanel_gadget/TODO/Восстановление системы
+/ItsPanel_gadget/bin/os/rstrui4.bat
